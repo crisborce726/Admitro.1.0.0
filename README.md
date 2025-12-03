@@ -10,7 +10,7 @@ One-line project description explaining what this project does and why it exists
 
 ## Screenshot
 
-![App screenshot](./assets/screenshot.png)
+![App screenshot](screenshot/Screenshot.png)
 
 *A short caption for the image above.*
 
